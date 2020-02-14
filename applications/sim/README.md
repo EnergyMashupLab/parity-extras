@@ -13,6 +13,10 @@ java -jar <executable> <configuration-file>
 When started, the market simulator enters an opening bid and ask. Then it
 begins to generate orders based on its model.
 
+A sample configuration file is in etc/devel.conf
+
+IN PROGRESS running without the full networking backend. Outstanding issue is tracing to address Connection refused error.
+
 ## References
 
 Parity Market Simulator is based on the following paper:
