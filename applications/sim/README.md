@@ -15,7 +15,9 @@ begins to generate orders based on its model.
 
 A sample configuration file is in etc/devel.conf
 
-IN PROGRESS running without the full networking backend. Outstanding issue is tracing to address Connection refused error.
+## In Progress
+- Issue 1 - running without the full networking backend. 
+- Issue 2 - tracing to address Connection refused error.
 
 ## References
 
